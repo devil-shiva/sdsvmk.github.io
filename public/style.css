@@ -131,6 +131,7 @@ header{
 
 .detailType{
     min-width: 7rem;
+    margin-left: 2rem;
 }
 .detail{
     padding: 1rem 0;
@@ -215,5 +216,8 @@ header{
     }
     .bodyOfTag{
         margin: .4rem;
+    }
+    .detailType{
+        margin-left: .2rem;
     }
 }
